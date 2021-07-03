@@ -1,0 +1,106 @@
+body{
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  background-image: url("home.jpg");
+  background-size:100%;
+}
+.container{
+  widows: 1300px;
+  margin: 0 auto;
+  background-color: none;
+
+}
+
+.header{
+
+  text-decoration: none;
+  font-size: 50px;
+  padding: 45px 0px 20px 40px;
+  
+}
+.header a{
+  color:white;
+
+}
+.header a:hover{
+  color: red;
+}
+
+.menu{
+  text-align: right;
+  background: none;
+  padding: 6px 50px 6px 40px;
+  
+}
+.menu a{
+  color:#ffffff;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial Narrow","Myriad Pro";
+}
+.menu a:hover{
+  color:red;
+}
+
+
+h1{
+  margin: 0;
+  color: white;
+  font-size: 28px;
+  font-family: "Arial Narrow","Myriad Pro";
+  font-weight: normal;
+  padding: 1px 0px 50px;
+}
+
+.main{
+  margin: 0 0 0 180px;
+  padding: 35px 40px 30px 0;
+  color: orangered;
+  font-family: "Georgia";
+  font-size: 13px;
+  line-height: 18px;
+  text-emphasis: justify;
+  text-align:center;
+
+}
+.main a:hover{
+  color: #444444;
+}
+
+.main #form {
+  padding: 10px 0px 30px 20px;
+  box-shadow: 0 7px 10px 6px black;
+
+}
+  nav {
+  text-align: center;
+  }
+
+  .sem a{
+    background-color: rgba(218,234,213,0.60);
+    color: #FFFFFF; /* White */
+    display: inline-block;
+    padding: 10px;
+    margin: 1%; 
+    text-decoration: none; 
+    border-radius: 15px; 
+  }
+label{
+  text-align:center;
+  padding: 35px 0px 30px 0;
+  color: #FFFFFF;
+  font-family: "Georgia";
+  font-size: 20px;
+  line-height: 18px;
+  text-emphasis: justify;
+}
+footer{
+  padding: 0px 40px 6px 40px;
+  background: none;
+  font-family: "Lucida Sans Unicode";
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-decoration: right;
+
+
+}

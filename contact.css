@@ -1,0 +1,85 @@
+body{
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  background-image: url("contact.jpg");
+background-size:100%;
+}
+
+.container{
+  widows: 1300px;
+  margin: 0 auto;
+  background-color: none;
+
+}
+
+.header{
+  text-decoration: none;
+  font-size: 50px;
+  padding: 80px 0px 20px 40px;
+  
+}
+.header a{
+  color: white;
+
+}
+.header a:hover{
+  color: red;
+}
+
+.menu{
+  text-align: right;
+  background:none;
+  padding: 6px 50px 6px 40px;  
+}
+.menu a{
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial Narrow","Myriad Pro";
+}
+.menu a:hover{
+  color:red;
+}
+
+h1{
+  margin: 0;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: "Arial Narrow","Myriad Pro";
+  font-weight: normal;
+  padding: 1px 0px 21px;
+}
+
+.main{
+  margin: 0 0 0 180px;
+  padding: 35px 40px 30px 0;
+  color: rgb(255, 255, 255);
+  font-family: "Georgia";
+  font-size: 13px;
+  line-height: 18px;
+  text-emphasis: justify;
+
+}
+.main a:hover{
+  color: #444444;
+}
+
+.main #form {
+  padding: 28px 0px 30px 20px;
+  box-shadow: 0 7px 10px 6px rgb(255, 255, 255);
+  width: 600px;
+}
+p{
+  text-align: left;
+  color:white;
+  font-size: 15px;
+}
+
+footer{
+  padding-top: 150px;
+  background: none;
+  font-family: "Lucida Sans Unicode";
+  color: #ffffff;
+  font-size: 20px;
+  text-decoration: right;
+}
